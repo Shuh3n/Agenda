@@ -1,0 +1,7 @@
+package co.uniquindio.pr2.agenda.model;
+
+public enum Fecha {
+
+	ENERO,FEBRERO,MARZO,ABRIL,MAYO,JUNIO,JULIO,AGOSTO,SEPTIEMBRE,OCTUBRE,NOVIEMBRE,DICIEMBRE
+
+}
